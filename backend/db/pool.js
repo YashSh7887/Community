@@ -4,7 +4,7 @@ module.exports= new Pool(
         host:"localhost",
         user:"yash",
         database:"community",
-        password:"yashwolf",
+        password:"yash7887",
         port:5432
     }
 );
